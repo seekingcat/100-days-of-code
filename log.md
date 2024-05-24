@@ -1,30 +1,131 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 21, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 22, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: May 25, 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. 
+2. 
+
+### Day 4: May 26, 2024
+
+**Today's Progress**: 
+* Reviewed Callbacks and Array Methods in WDB
+* Worked on Section 25 - DOM Events in WDB
+
+**Thoughts** Thinking that as I'm moving forward I should set up a healthy habit of reviewing what I've gone over so I don't keep piling knowledge on top of shaky knowledge.
+Gone over array Methods like .forEach(), .map(), .filter(), .reduce(), .some(), .every(). Reviewed arrow functions and writing implicit returns, as well as the keyword *this* and its quirks in arrow functions.
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 5: May 27, 2024
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 7: May 28, 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2.
+
+### Day 8: May 29. 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 9: May 30, 2024
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 10: May 31, 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2.
+
+### Day 11: June 1, 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 12: June 2, 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 13: June 3, 2024 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 
+
+### Day 14: June 4, 2024
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
+2. 

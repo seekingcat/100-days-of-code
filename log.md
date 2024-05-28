@@ -88,7 +88,13 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
-**Thoughts**:
+* Ajax and APIs
+* Understanding JSON
+* Using Hoppscotch
+* Using Fetch and Axios
+* Status codes, headers and query strings
+
+**Thoughts**: Really only understood the concepts on a surface level. Will have to go back and review section 27 on promises and async/await, try/catch, just so that I've firmed it up in my head. But also it might be that it's better to work with real life examples rather than fake requests, which is how the concepts are being taught. Nevertheless, it's starting to get to the really fun part of the course where it's less conceptual and more about how information is parsed and utilised in the real world. Which means I can make useful websites with some functionality.
 
 **Link(s) to work**
 

@@ -56,7 +56,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 7: May 26, 2024
+### Day 6: May 26, 2024
 
 **Today's Progress**:
 
@@ -70,7 +70,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 8: May 27. 2024
+### Day 7: May 27. 2024
 
 **Today's Progress**:
 
@@ -84,7 +84,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 9: May 28, 2024
+### Day 8: May 28, 2024
 
 **Today's Progress**:
 
@@ -100,7 +100,22 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 10: May 28, 2024
+### Day 9: May 28, 2024
+
+**Today's Progress**:
+
+* More practice with Axios
+* OOP and classes
+* Introduction to Node and installation
+* Installing and using packages
+
+**Thoughts**: Managed to implement a very basic quote generator using axios, but feel I require some more practice with it to make it second nature. But it worked, there's no styling, but I'm happy that I was able to extract the information that I needed and made something useable, even if it's just a click listener at the moment. Pushed ahead with node installation and requiring and installing packages. Seems pretty basic at the moment, but will revise the material. Object Oriented programming and classes and prototypes was a difficult section, so will have to revisit that as well.
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 10: May 30, 2024
 
 **Today's Progress**:
 
@@ -110,7 +125,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 11: May 30, 2024
+### Day 11: June 1, 2024
 
 **Today's Progress**:
 
@@ -120,7 +135,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 12: June 1, 2024
+### Day 12: June 2, 2024
 
 **Today's Progress**:
 
@@ -130,17 +145,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 13: June 2, 2024
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s) to work**
-
-1. <https://github.com/seekingcat>
-
-### Day 14: June 3, 2024
+### Day 13: June 3, 2024
 
 **Today's Progress**:
 

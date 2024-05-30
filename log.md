@@ -119,7 +119,10 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
-**Thoughts**:
+* Language guesser challenge
+* Started learning about Express
+
+**Thoughts**: Did the language detector exercise on my own before watching the code through and managed to get it to work. Getting comfortable with using node and npm and started working with Express. Spending time revisiting older topics like Javascript advanced methods and object oriented programming again, as well as async/await functions and error handling with try/catch.
 
 **Link(s) to work**
 

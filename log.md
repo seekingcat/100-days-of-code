@@ -131,8 +131,11 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 ### Day 11: June 1, 2024
 
 **Today's Progress**:
+* Express routing basics, path parameters, query strings
+* Templating, installing EJS
+* EJS views directory, passing data to templates, conditionals and loops
 
-**Thoughts**:
+**Thoughts**: Will have to spend more time with this just to make sure I understand the req and res objects that are returned. Also have to make sure I understand the use of 'path' in EJS, although it looks like syntax that's just normal for each ejs file. Enjoying this beginning look at frameworks, and need to read docs for templating engines to see if I can understand how they work.
 
 **Link(s) to work**
 

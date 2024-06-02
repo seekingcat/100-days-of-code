@@ -145,7 +145,10 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
-**Thoughts**:
+* review EJS
+* review RESTful routes
+
+**Thoughts**: Didnt have much time so spent an hour reviewing material for the ejs and rest sections of webdevbootcamp
 
 **Link(s) to work**
 

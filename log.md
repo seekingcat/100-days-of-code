@@ -100,7 +100,7 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 9: May 28, 2024
+### Day 9: May 29, 2024
 
 **Today's Progress**:
 
@@ -126,9 +126,20 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Link(s) to work**
 
+### Day 11: May 31, 2024
+
+**Today's Progress**:
+
+* Language guesser challenge
+* Started learning about Express
+
+**Thoughts**: Did the language detector exercise on my own before watching the code through and managed to get it to work. Getting comfortable with using node and npm and started working with Express. Spending time revisiting older topics like Javascript advanced methods and object oriented programming again, as well as async/await functions and error handling with try/catch.
+
+**Link(s) to work**
+
 1. <https://github.com/seekingcat>
 
-### Day 11: June 1, 2024
+### Day 12: June 1, 2024
 
 **Today's Progress**:
 * Express routing basics, path parameters, query strings
@@ -141,22 +152,272 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 1. <https://github.com/seekingcat>
 
-### Day 12: June 2, 2024
+### Day 13: June 2, 2024
 
 **Today's Progress**:
 
-**Thoughts**:
+* Revision
+
+**Thoughts**: Social life took precedence today, only able to code for one hour and it was basically following tutorials and going over what I've done
 
 **Link(s) to work**
 
 1. <https://github.com/seekingcat>
 
-### Day 13: June 3, 2024
+### Day 14: June 3, 2024
 
 **Today's Progress**:
 
-**Thoughts**:
+* CRUD operations in Express with EJS
+* method override for patch and delete requests
+* importing and using UUID
+* using data direct from forms
+
+**Thoughts**: This was more of a follow along day as I'm not able to sit and code as life is happening.
 
 **Link(s) to work**
 
 1. <https://github.com/seekingcat>
+
+### Day 15: June 4, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 16: June 5, 2024
+
+**Today's Progress**:
+
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 17: June 6, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 18: June 7, 2024
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 19: June 8, 2024
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 20: June 9, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 13: June 10, 2024
+
+**Today's Progress**:
+
+
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 20: June 11, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 21: June 12, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 22: June 13, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 23: June 14, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 24: June 15, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+### Day 13: June 16, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 13: June 17, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 25: June 18, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 26: June 19, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 27: June 20, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 28: June 21, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 29: June 22, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 30: June 23, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 31: June 24, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+
+### Day 32: June 25, 2024
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. <https://github.com/seekingcat>
+

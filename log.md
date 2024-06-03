@@ -156,9 +156,16 @@ Went over the use of the keyword *this* and their use in event handling, they ca
 
 **Today's Progress**:
 
+<<<<<<< HEAD
 * Revision
 
 **Thoughts**: Social life took precedence today, only able to code for one hour and it was basically following tutorials and going over what I've done
+=======
+* review EJS
+* review RESTful routes
+
+**Thoughts**: Didnt have much time so spent an hour reviewing material for the ejs and rest sections of webdevbootcamp
+>>>>>>> 2f44b2feca157207ba0111e3fff3604dcedefc82
 
 **Link(s) to work**
 
